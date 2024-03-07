@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+    margin: 0%; /* espaço externo da página */
+    padding:0%; /* espaço interno da página */
+    width: 30%;
+    height:10%;
+
+}
+
+.inicial{
+    background-color: rgb(209, 252, 252);
+    width: 25%;
+    height: 25%;
+}
+
+#imagemInicial{
+    background-color: rgb(164, 142, 175);
+    width: 100%;
+    padding: 5% 10% 5% 3%;
+
+}
